@@ -2,7 +2,7 @@
 <info>
     <id>ajax_event_dispatcher</id>
     <name>Ajax Event Dispatcher</name>
-    <description>My first ownCloud app</description>
+    <description>This application provides global methods for other applications to register success and error events of AJAX. The registered callbacks will be executed when AJAX requests are complete with success or error.</description>
     <licence>AGPL</licence>
     <author>simon</author>
     <version>0.0.1</version>
